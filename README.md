@@ -1,2 +1,0 @@
-# LoRa-E220-900T22D
-LoRa Module EbyteE220-900T22D
